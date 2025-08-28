@@ -4,3 +4,8 @@ faiss-cpu
 sentence-transformers
 transformers
 torch
+numpy
+pillow
+pytesseract
+networkx
+pyvis
